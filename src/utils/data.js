@@ -130,7 +130,7 @@ export const techSkills = [
   },
   {
     width: '100%',
-    name: 'JSON, API',
+    name: 'JSON, API, REST API and GitHub',
     motionTime1: 0.11
   },
   {
