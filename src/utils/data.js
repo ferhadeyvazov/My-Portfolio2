@@ -130,7 +130,7 @@ export const techSkills = [
   },
   {
     width: '100%',
-    name: 'JSON, API, REST API and GitHub',
+    name: 'JSON, API, REST API, noSQL',
     motionTime1: 0.11
   },
   {
@@ -144,9 +144,24 @@ export const techSkills = [
     motionTime1: 0.15
   },
   {
-    width: '80%',
-    name: "SASS/SCSS, Bootstrap, TailwindCSS",
+    width: '100%',
+    name: "GIT, Github, Firebase",
     motionTime1: 0.15
+  },
+  {
+    width: '80%',
+    name: "SASS/SCSS, Bootstrap",
+    motionTime1: 0.2
+  },
+  {
+    width: '60%',
+    name: "Figma, Sketch, Photoshop, Lightroom",
+    motionTime1: 0.2
+  },
+  {
+    width: '100%',
+    name: "Responsive Design",
+    motionTime1: 0.25
   }
 ]
 
