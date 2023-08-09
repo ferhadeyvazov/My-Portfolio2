@@ -29,6 +29,13 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
+    place: "Shopstore MMC",
+    tenure: "March 2023 - until Now",
+    role: "Frontend Developer",
+    detail:
+      "",
+  },
+  {
     place: "Coders Azerbaijan",
     tenure: "Jan 2022 - Mar 2022",
     role: "Frontend Developer",
