@@ -5,7 +5,7 @@ import { footerVariants } from '../../utils/motion';
 import { BsLinkedin, BsInstagram } from 'react-icons/bs'
 import { TbBrandGmail } from 'react-icons/tb'
 import { RxResume } from 'react-icons/rx'
-import Cv from '../../assets/img/Resume Ferhad Eyvazov.pdf';
+import Cv from '../../assets/img/Resume Fərhad Eyvazov.pdf';
 
 
 

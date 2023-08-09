@@ -127,22 +127,27 @@ export const comments = [
 export const techSkills = [
   {
     width: '100%',
-    name: 'HTML, CSS',
+    name: 'HTML, CSS, SASS/SCSS',
     motionTime1: 0.5
   },
   {
     width: '70%',
-    name: 'Javascript',
+    name: 'Javascript/ES6+',
     motionTime1: 0.5
-  },
-  {
-    width: '100%',
-    name: 'JSON, API, REST API, noSQL',
-    motionTime1: 0.11
   },
   {
     width: '60%',
     name: "React, Redux",
+    motionTime1: 0.11
+  },
+  {
+    width: '80%',
+    name: "Bootstrap",
+    motionTime1: 0.2
+  },
+  {
+    width: '100%',
+    name: 'JSON, API, REST API, noSQL',
     motionTime1: 0.11
   },
   {
@@ -154,11 +159,6 @@ export const techSkills = [
     width: '100%',
     name: "GIT, Github, Firebase",
     motionTime1: 0.15
-  },
-  {
-    width: '80%',
-    name: "SASS/SCSS, Bootstrap",
-    motionTime1: 0.2
   },
   {
     width: '60%',

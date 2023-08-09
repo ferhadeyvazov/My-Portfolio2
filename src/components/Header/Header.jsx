@@ -6,7 +6,7 @@ import {motion} from 'framer-motion';
 import { headerVariants, getMenuStyles } from '../../utils/motion';
 import useHeaderShadow from '../../hooks/useHeaderShadow';
 import useOutsideAlerter from '../../hooks/useOutsideAlerter';
-import Cv from '../../assets/img/Resume Ferhad Eyvazov.pdf';
+import Cv from '../../assets/img/Resume Fərhad Eyvazov.pdf';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
