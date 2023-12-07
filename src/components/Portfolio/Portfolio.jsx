@@ -5,6 +5,7 @@ import { fadeIn, staggerChildren } from '../../utils/motion'
 import Diamon from '/src/assets/img/Project2.png'
 import Coffee from '/src/assets/img/Project1.png'
 import Clothed from '/src/assets/img/Project3.png'
+import Shopstore from '/src/assets/img/real_project_shopstore.jpg'
 
 function Portfolio() {
     return (
@@ -34,18 +35,24 @@ function Portfolio() {
                 <div className="showCase">
                     <motion.a
                         variants={fadeIn('up', 'tween', 0.5, 0.6)}
+                        href="https://shopstore.az/" target='_blank'>
+                        <img src={Shopstore} alt="shopstore.az" />
+                        
+                    </motion.a>
+                    <motion.a
+                        variants={fadeIn('up', 'tween', 0.7, 0.6)}
                         href="https://diamonmusic.vercel.app/" target='_blank'>
                         <img src={Diamon} alt="Project" />
                         
                     </motion.a>
                     <motion.a
-                        variants={fadeIn('up', 'tween', 0.7, 0.6)}
+                        variants={fadeIn('up', 'tween', 0.9, 0.6)}
                         href="https://flavoredcoffee.netlify.app/" target='_blank'>
                         <img src={Coffee} alt="project"
                         />
                     </motion.a>
                     <motion.a
-                        variants={fadeIn('up', 'tween', 0.9, 0.6)}
+                        variants={fadeIn('up', 'tween', 0.11, 0.6)}
                         href="https://depoclothing.netlify.app/" target='_blank'>
                         <img src={Clothed} alt="project"
                         />

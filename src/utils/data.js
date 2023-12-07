@@ -29,6 +29,13 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
+    place: "Shopstore MMC",
+    tenure: "Mar 2023 - Present",
+    role: "Web Developer",
+    detail:
+      "I created the company's Ecommerce web project with HTML, CSS, and Javascript and integrated it into Wordpress. Currently, I am the frontend technical support and web administrator for the page.",
+  },
+  {
     place: "Coders Azerbaijan",
     tenure: "Jan 2022 - Mar 2022",
     role: "Frontend Developer",
@@ -162,6 +169,11 @@ export const techSkills = [
     width: '100%',
     name: "Responsive Design",
     motionTime1: 0.25
+  },
+  {
+    width: '50%',
+    name: "WordPress, WooCommerce",
+    motionTime1: 0.3
   }
 ]
 
